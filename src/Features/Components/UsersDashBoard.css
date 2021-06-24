@@ -1,0 +1,18 @@
+button {
+  padding: 10px;
+  border-radius: 8px 8px;
+}
+
+div {
+  margin: 10px;
+  border-radius: 8px 8px;
+}
+
+.transactions,
+.rewards {
+  border: 1px solid black;
+}
+
+.title {
+  font-weight: 600;
+}
